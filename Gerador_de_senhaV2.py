@@ -82,7 +82,7 @@ def exibir_senhas(senhas):
                               command=copiar_5_senhas, font=("Arial", 12), cursor="hand2")
     copiar_button.pack(side=tk.TOP)
 
-    label2 = tk.Label(frame2, text="Operações - Multitech\nRaul Oliveira", bg="#DCDCDC", fg="#000000", font=("Consolas", 10))
+    label2 = tk.Label(frame2, text="Operações - Multitech\nRaul Oliveira Mercadante", bg="#DCDCDC", fg="#000000", font=("Consolas", 10))
     label2.pack(side=tk.BOTTOM, pady=10)
 
     def reiniciar():
