@@ -1,4 +1,5 @@
 Configuração ===============================
+
 git config --global user.name "Fulano de tal"
 git config --global user.email "Fulano@gmail.com"
 
