@@ -3,6 +3,7 @@ import pyperclip
 import string
 import random
 
+#Versão desatualizada
 
 def gerar_senha():
     senha = ''
